@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Oct 2016 20:21:43 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>React koans</title>
+      <link>http://example.org/posts/react-koans/</link>
+      <pubDate>Fri, 07 Oct 2016 20:21:43 +0100</pubDate>
+      
+      <guid>http://example.org/posts/react-koans/</guid>
+      <description>A big part of my Junior Rails Developer course is learning front-end technologies. To be precise I am going to learn Javascript and React, which is a framework of choice for Arkency team.
+My first task was to finish react-koans made by Arkency to at least get some first look into it. It took me about two evenings to finish it and since I have never learned any JS framework before.</description>
+    </item>
+    
+    <item>
+      <title>Order or cart</title>
+      <link>http://example.org/posts/order-or-cart/</link>
+      <pubDate>Sat, 03 Sep 2016 20:21:43 +0100</pubDate>
+      
+      <guid>http://example.org/posts/order-or-cart/</guid>
+      <description>Today I am going to write about another interesting part of my shopping cart project. On of interesting part was deciding how should I handle creating order.
+Current user can add products to shopping cart and then create order. Making order doesn&amp;rsquo;t have any functionality except creating a new order and removing all products from a cart.
+When I was trying to figure out the best possible way to tackle that problem I come up with three solutions.</description>
+    </item>
+    
+    <item>
+      <title>Path vs URL</title>
+      <link>http://example.org/posts/path-vs-url/</link>
+      <pubDate>Thu, 01 Sep 2016 20:21:43 +0100</pubDate>
+      
+      <guid>http://example.org/posts/path-vs-url/</guid>
+      <description>Today&amp;rsquo;s post will be shorter than usual.
+One day I started wondering what&amp;rsquo;s the difference between Rails some_route_path and some_route_url. Because at first, it looked like both returned the same address. After some research and help from Arkency, I learned that the difference is in fact quite significant.
+Path helper provides a path that is relative to the root of a site. And should always be used if you provide a link inside your application.</description>
+    </item>
+    
+    <item>
+      <title>Blogging for busy programmers</title>
+      <link>http://example.org/posts/blogging-for-busy-programmers/</link>
+      <pubDate>Sun, 28 Aug 2016 20:21:43 +0100</pubDate>
+      
+      <guid>http://example.org/posts/blogging-for-busy-programmers/</guid>
+      <description>When I started my blog I was full of doubts. Will my posts be interesting? What if I make grammar or spelling mistakes? Or worse what if I write something that is untrue and wrong? How can I figure out what to write about? That is a lot of what-ifs, how&amp;rsquo;s and why&amp;rsquo;s that make you want to stop blogging and I was scared that I will suck at it. I forced myself to write the first post and you know what it was a lot of fun, to be honest.</description>
+    </item>
+    
+    <item>
+      <title>Associations</title>
+      <link>http://example.org/posts/associations/</link>
+      <pubDate>Sat, 27 Aug 2016 20:21:43 +0100</pubDate>
+      
+      <guid>http://example.org/posts/associations/</guid>
+      <description>An important topic in any application that tries to solve a problem are associations. Objects, items, things are connected in many ways with each other. And those connections are what today&amp;rsquo;s blog post will be about. It will show how to create and use basic associations in Rails.
+As my next step in Junior Rails Developer Course, I was asked to create a simple app that will teach me how to use associations in Rails.</description>
+    </item>
+    
+    <item>
+      <title>Hamming exercise</title>
+      <link>http://example.org/posts/hamming/</link>
+      <pubDate>Tue, 16 Aug 2016 20:21:43 +0100</pubDate>
+      
+      <guid>http://example.org/posts/hamming/</guid>
+      <description>When you try to become web developer there are obvious things you need to learn. HTML is the foundation of each website, so you learn that. Then you start to think that it would be nice if the website looked just a bit better and you learn CSS. Then you figure out you need some JS to make it more dynamic and some backend framework and in my case you start to learn Ruby on Rails.</description>
+    </item>
+    
+    <item>
+      <title>Post.new.valid?</title>
+      <link>http://example.org/posts/validations/</link>
+      <pubDate>Sat, 06 Aug 2016 20:21:43 +0100</pubDate>
+      
+      <guid>http://example.org/posts/validations/</guid>
+      <description>Today I would like to share the next step in my Rails journey share with you all. Which is, as you can tell from the title, validation. Or, to be specific, making rails app check if a newly created object is valid in the context of its model and how validation works under the hood.
+I was asked to create a simple application with just one model, and a controller.</description>
+    </item>
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>http://example.org/posts/hello/</link>
+      <pubDate>Fri, 05 Aug 2016 20:21:43 +0100</pubDate>
+      
+      <guid>http://example.org/posts/hello/</guid>
+      <description>Hello, World! Two of the most iconic words in programming world in my opinion. Those are the first two things most of us see at the very beginning of our journey to become developers. We start by learning how can we make that simple string print either on a website or console window.
+After that way too long introduction that probably bored to death most of you I think it&amp;rsquo;s time to introduce myself and explain why am I blogging in the first place.</description>
+    </item>
+    
+  </channel>
+</rss>
